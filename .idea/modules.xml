@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Kubernetes pods list.iml" filepath="$PROJECT_DIR$/.idea/Kubernetes pods list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Kubernetes-pods-list/Kubernetes-pods-list.iml" filepath="$PROJECT_DIR$/Kubernetes-pods-list/Kubernetes-pods-list.iml" />
+    </modules>
+  </component>
+</project>
